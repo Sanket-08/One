@@ -1,1 +1,2 @@
 text in file 2
+updated the file 
