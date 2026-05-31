@@ -1,2 +1,3 @@
 text in file 2
 updated the file 
+show changes for git diff
